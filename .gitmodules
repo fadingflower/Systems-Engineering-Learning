@@ -1,3 +1,6 @@
 [submodule "minimal"]
 	path = minimal
 	url = https://github.com/ivandavidov/minimal.git
+[submodule "os-tutorial"]
+	path = os-tutorial
+	url = https://github.com/cfenollosa/os-tutorial.git
