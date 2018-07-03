@@ -2,8 +2,6 @@ It is recomended that you use a Linux and Windows XP Virtual Machines to complet
 
 http://read.seas.harvard.edu/~kohler/class/10f-aos/tools.html
 
-Go to MIT first.
-
 [MIT OS-Engineering](https://pdos.csail.mit.edu/6.828/)
 
 [Cross Compiler](https://wiki.osdev.org/GCC_Cross-Compiler)
