@@ -2,7 +2,7 @@ It is recomended that you use a Linux and Windows XP Virtual Machines to complet
 
 http://read.seas.harvard.edu/~kohler/class/10f-aos/tools.html
 
-Got to MIT fisrt.
+Go to MIT fisrt.
 
 [MIT OS-Engineering](https://pdos.csail.mit.edu/6.828/2014/index.html)
 
