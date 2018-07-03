@@ -4,9 +4,7 @@
 [submodule "os-tutorial"]
 	path = os-tutorial
 	url = https://github.com/cfenollosa/os-tutorial.git
-[submodule "university/MIT/courses/tanaenbaum/minix"]
-	path = university/MIT/courses/tanaenbaum/minix
-	url = https://github.com/minix3/minix.git
+
 [submodule "university/freebsd/freebsd"]
 	path = university/freebsd/freebsd
 	url = https://github.com/freebsd/freebsd.git
