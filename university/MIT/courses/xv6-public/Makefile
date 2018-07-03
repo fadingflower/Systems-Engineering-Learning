@@ -32,7 +32,7 @@ OBJS = \
 # TOOLPREFIX = i386-jos-elf
 
 # Using native tools (e.g., on X86 Linux)
-TOOLPREFIX = x86_64-pc-cygwin-
+#TOOLPREFIX = x86_64-pc-cygwin-
 
 # Try to infer the correct TOOLPREFIX if not set
 ifndef TOOLPREFIX
