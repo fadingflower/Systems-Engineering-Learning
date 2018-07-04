@@ -1,10 +1,6 @@
-[submodule "minimal"]
-	path = minimal
+[submodule "learning/minimal"]
+	path = learning/minimal
 	url = https://github.com/ivandavidov/minimal.git
-[submodule "os-tutorial"]
-	path = os-tutorial
+[submodule "learning/www.cs.bham.ac.uk/os-tutorial"]
+	path = learning/www.cs.bham.ac.uk/os-tutorial
 	url = https://github.com/cfenollosa/os-tutorial.git
-
-[submodule "university/freebsd/freebsd"]
-	path = university/freebsd/freebsd
-	url = https://github.com/freebsd/freebsd.git
